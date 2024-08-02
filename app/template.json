@@ -1,0 +1,5 @@
+{
+  "question": "question asked",
+  "handicap level": "the handicap level corresponding to which the response is generated",
+  "answer": "the generated answer"
+}
